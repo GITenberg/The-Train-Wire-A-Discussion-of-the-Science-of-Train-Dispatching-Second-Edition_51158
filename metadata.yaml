@@ -1,5 +1,8 @@
 _repo: The-Train-Wire-A-Discussion-of-the-Science-of-Train-Dispatching-Second-Edition_51158
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51158-h/images/cover.jpg
 creator:
   author:
     agent_name: Anderson, John Alexander
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46268'
     url: http://www.gutenberg.org/2009/agents/46268
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51158#The-Train-Wire-A-Discussion-of-the-Science-of-Train-Dispatching-Second-Edition
 gutenberg_issued: '2016-02-09'
 gutenberg_type: Text
 identifiers:
